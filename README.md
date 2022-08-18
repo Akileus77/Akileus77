@@ -23,7 +23,7 @@
 <details>
 <summary> 💡 Most Used Languages</summary>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akileus77&layout=compact%22%3E%22%3E
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akileus77&layout=compact%22%3E%22%3E">
 </details>
 
 <details>

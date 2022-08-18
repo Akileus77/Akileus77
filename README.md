@@ -1,7 +1,7 @@
 ### Hi 🎶, I'm Murat.
 
 
-## Blockchain Expret, React Developer |  Full Stack Developer | DEGEN
+## Blockchain Expert, React Developer |  Full Stack Developer | DEGEN
 
 ## Tech I Use
 
